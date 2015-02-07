@@ -159,7 +159,10 @@
                </gap> this: <hi>In flumina lumina verto.</hi>
             </p>
             <p>The portraicture you shall finde more clearly explaned, and more lively personated in the conclusion of the work.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:47239:1"/>
+               <figure/>
+            </p>
          </div>
          <div type="title_page">
             <pb facs="tcp:47239:2"/>
